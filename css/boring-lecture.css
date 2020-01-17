@@ -7,3 +7,12 @@ p.intro {
   width: 50%;
   font-style: italic;
 }
+
+body {
+  background-color: #e3d9ff;
+}
+
+img.intro {
+  height: 185px;
+  width: 350px;
+}
