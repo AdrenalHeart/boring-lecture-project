@@ -1,18 +1,9 @@
-h2.intro {
+.intro {
   font-family: Arial;
-  font-size: 18px;
-}
-
-p.intro {
-  width: 50%;
   font-style: italic;
+  font-size: 18px;
 }
 
 body {
   background-color: #e3d9ff;
-}
-
-img.intro {
-  height: 185px;
-  width: 350px;
 }
